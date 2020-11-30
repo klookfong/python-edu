@@ -1,0 +1,29 @@
+0. I Spent Eleven Years Working on This Line Rider Track: 377
+1. TSMC and Google push chipmaking boundaries with 3D 'stacking': 46
+2. An ex-Googler’s guide to dev tools: 41
+3. hCaptcha now runs on fifteen percent of the internet: 513
+4. Java is better than C++ for high speed trading systems: 62
+5. Your brain runs your body using something like a budget: 27
+6. Raycast (YC W20) Is Hiring Fullstack Software Engineers (EU, Remote): 104
+7. Pimutils: The coreutils of personal information management: 280
+8. Quiver: A modern commutative diagram editor: 347
+9. Mmhmm: 19
+10. Two Darwin Notebooks, Missing for Decades, Were Most Likely Stolen: 9
+11. Writing well: 111
+12. Performance Matters (2019): 87
+13. Technology as It Should Be: 8
+14. Amazon Sorry for Sidewalk 'Confusion': 138
+15. A Port of “The Last True Unix” to x86: 39
+16. The Origin of the Shell: 558
+17. macOS has checked app signatures online for over 2 years: 45
+18. A Survival Guide to Medieval Fairy Tales: 4
+19. Exploring the virtual reality conjecture (2011) [pdf]: 40
+20. How fast does interpolation search converge?: 199
+21. That’s not why I did it: 10
+22. The Yup’ik art of sewing feather-lined parkas for babies: 293
+23. Blender 2.91 Released: 393
+24. Diego Maradona has died: 107
+25. JFK in Trauma Room One: A Witness Remembers: 62
+26. FreeBSD Desktop – Part 3 – X11 Window System: 66
+27. Str: Yet another string library for C language: 35
+28. Linus Torvalds would like to use an M1 Mac for Linux, but: 26
